@@ -1,0 +1,7 @@
+registration\Stepdefs.class
+registration\IsItFriday.class
+registration\LoginFlowStepDifinition.class
+registration\StepDefinitions.class
+registration\AddCustomerPage.class
+registration\RunCucumberTest.class
+registration\ToolsSiteRegisterFlowStepDef.class
